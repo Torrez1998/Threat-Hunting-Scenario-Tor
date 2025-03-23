@@ -72,22 +72,3 @@ DeviceFileEvents
 | where FileName contains "shopping-list.txt"
 ```
 
----
-
-## Created By:
-- **Author Name**: Ariel Torres
-- **Author Contact**: www.linkedin.com/in/ariel-torrez
-- **Date**: March 23, 2025
-
-## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
-
----
-
-## Additional Notes:
-- **None**
-
----
-
