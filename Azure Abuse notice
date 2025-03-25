@@ -693,3 +693,4 @@ Audit system configurations, especially for SSH and scheduled tasks, to ensure c
 Implement segmentation controls to limit lateral movement between critical assets and non-critical devices.
 
 Review and update security policies to cover similar attack vectors in the future.
+
